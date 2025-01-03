@@ -1,0 +1,1 @@
+# Closure of an attribute set
